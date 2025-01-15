@@ -1,5 +1,5 @@
 # AWS-Lambda
-** AWS Lambda **  are serverless compute functions are fully managed by AWS where developers can run there code without worrying about servers. AWS Lambda function will allow you to run the code without provisioning or managing servers.
+**AWS Lambda**  are serverless compute functions are fully managed by AWS where developers can run there code without worrying about servers. AWS Lambda function will allow you to run the code without provisioning or managing servers.
 
 # Steps to Create an AWS Lambda Function
 
@@ -39,4 +39,4 @@
 2. Test the function by creating a test event and invoking it.
 
 # Amazon API Gateway
-** Amazon API Gateway ** is an AWS service for <mark style="background-color: lightblue"> creating, publishing, maintaining monitoring and securing REST, HTTP and websocket API's </mark> at any scale.
+**Amazon API Gateway** is an AWS service for <mark style="background-color: lightblue"> creating, publishing, maintaining monitoring and securing REST, HTTP and websocket API's </mark> at any scale.
